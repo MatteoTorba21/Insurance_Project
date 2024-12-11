@@ -5,8 +5,8 @@ This project, conducted by Group 05 of the Mathematical Engineering program for 
 
 Files and Resources
 
-MATLAB Code: Comprehensive scripts for stochastic simulations, including Geometric Brownian Motion and Monte Carlo simulations.
+INSURANCE_MATLAB_CODE: Comprehensive scripts for stochastic simulations, including Geometric Brownian Motion and Monte Carlo simulations.
 
 Excel: Detailed calculations and tables supporting the deterministic approach.
 
-Project Report: A thorough document outlining the methodologies, results, and discussions of the project.
+InsuranceProject_Report: A thorough document outlining the methodologies, results, and discussions of the project.
